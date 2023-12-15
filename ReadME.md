@@ -1,4 +1,4 @@
-# Sample GraphQL Server using Java Spring Boot
+# Sample GraphQL Server using DGS Framework
 
 ~~~ 
 Requirements
